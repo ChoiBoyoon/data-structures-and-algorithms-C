@@ -1,2 +1,4 @@
-# Data-Structures-with-Java
-Implementation of basic data structures in Java
+# DataStructure_and_Algorithms_in_C
+> Implementation of basic data structures and algorithms in C
+
+
