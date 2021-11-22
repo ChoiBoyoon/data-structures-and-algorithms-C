@@ -4,7 +4,7 @@
 ## Data Structure
 #### LinkedList
 * [Singly Linked List](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/SingleLinkedList)
-* [Doubly Lined List](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/DoublyLinkedList)
+* [Doubly Linked List](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/DoublyLinkedList)
 * [Circular Linked List](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/CircularLinkedList)
 
 #### Stack
