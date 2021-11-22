@@ -1,9 +1,3 @@
-//  LinkedList.h
-//  DataStructureWithC
-//
-//  Created by boyoon choi on 20/11/2021.
-//  Copyright © 2021 boyoon choi. All rights reserved.
-
 #ifndef LinkedList_h
 #define LinkedList_h
 
