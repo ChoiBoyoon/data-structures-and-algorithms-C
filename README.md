@@ -2,6 +2,10 @@
 > Implementation of basic data structures and algorithms in C
 
 ### LinkedList
-1. Singly Linked List
-2. Doubly Lined List
-3. Circular Linked List
+* Singly Linked List
+* Doubly Lined List
+* Circular Linked List
+
+### Stack
+
+### Queue
