@@ -8,3 +8,4 @@ typedef struct tagNode{
     struct tagNode* NextNode;
 } Node;
 ```
+![image](https://user-images.githubusercontent.com/22133824/142841228-b3ce380c-cb8b-48d1-8e30-3fa34b502af6.png)
