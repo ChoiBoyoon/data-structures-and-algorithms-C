@@ -2,7 +2,7 @@
 > Implementation of basic data structures and algorithms in C
 
 ### LinkedList
-* Singly Linked List
+* [Singly Linked List](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/SingleLinkedList)
 * Doubly Lined List
 * Circular Linked List
 
