@@ -1,7 +1,7 @@
 ### Circular Linked List
 > a variation of a linked list where the tail node points to the head node, completing a full circle of nodes.
 * Cost to get to tail node decreases -> ```append_node()``` functionality increases drastically.
-* Need to pay more attention with pointers when there's 0-1 node in the list.
+* Need to pay more attention with pointers when there's 0-1 node in the list. (```Head->NextNode``` and ```Head->PrevNode``` are both Head itself)
 
 ### 환형 링크드 리스트(Circular Linked List)
 > 헤드가 테일을 물고 있는 형태의 링크드 리스트.
