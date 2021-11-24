@@ -19,3 +19,5 @@ typedef struct tagArrayStack{
   Node* Nodes;  //노드 배열. 포인터를 배열로 사용할 수 있는 C언어의 특성을 이용. (Nodes 포인터는 자유 저장소에 할당한 배열의 첫 번째 요소를 가리킴)
 } ArrayStack;
 ```
+
+![image](https://user-images.githubusercontent.com/22133824/143220181-95d68ec0-0e76-403e-bb21-6785af3fb06b.png)
