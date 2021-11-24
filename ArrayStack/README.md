@@ -21,3 +21,18 @@ typedef struct tagArrayStack{
 ```
 
 ![image](https://user-images.githubusercontent.com/22133824/143220181-95d68ec0-0e76-403e-bb21-6785af3fb06b.png)
+
+### Stack
+
+```C
+typedef struct tagNode{
+  ElementType Data;
+  //location of node is known by index of array -> pointer is not necessary
+} Node
+
+typedef struct tagArrayStack{
+  int Capacity; //size of stack
+  int Top;      //location of top node
+  Node* Nodes;  //Nodes points to first element of array assigned in free store. In C language, pointer can be used like an array.
+} ArrayStack;
+```
