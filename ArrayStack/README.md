@@ -36,3 +36,18 @@ typedef struct tagArrayStack{
   Node* Nodes;  //Nodes points to first element of array assigned in free store. In C language, pointer can be used like an array.
 } ArrayStack;
 ```
+
+result of the test code:
+```
+Capacity: 10, Size: 4, Top: 12
+
+Popped: 12
+Current Top: 11
+Popped: 11
+Current Top: 37
+Popped: 37
+Current Top: 3
+Popped: 3
+Stack is empty.
+Program ended with exit code: 0
+```
