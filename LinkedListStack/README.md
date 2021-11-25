@@ -10,7 +10,15 @@ Node structure
 ```Python
 typedef struct tagNode{
   char* Data; #char* points to the first character of string. (In C, we can use pointer like a string)
-              #this one should assigned in free store (using malloc(strlen(Data)+1)
+              #this one should be assigned in free store (using malloc(strlen(Data)+1)
   struct tagNode* NextNode;
-}
+} Node;
+```
+
+(Linked-list) stack structure
+```Python
+typedef struct tagLinkedListStack{
+  Node* List;
+  Node* Top; #in order to avoid sequential search, we use 4 bytes and use pointer "Top"
+} LinkedList;
 ```
