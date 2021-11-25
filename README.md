@@ -9,7 +9,7 @@
 
 #### Stack
 * [ArrayStack](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/ArrayStack)
-* LinkedListStack
+* [LinkedListStack](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/LinkedListStack)
 * Calculator
 
 #### Queue
