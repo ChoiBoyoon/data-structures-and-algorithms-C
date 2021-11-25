@@ -21,7 +21,7 @@ typedef struct tagLinkedListStack{
   Node* List;
   Node* Top; #in order to avoid sequential search, we use 4 bytes and use pointer "Top"
 } LinkedList;
-
+```
 
 result of the test code:
 ```
