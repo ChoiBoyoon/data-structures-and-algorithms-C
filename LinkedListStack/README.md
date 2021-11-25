@@ -1,12 +1,12 @@
 ## LinkedListStack
 > 
 
+* Unlike ArrayStack, we don't need to set limit of size of stack in the beginning.
 * 스택의 용량에 제한을 두지 않아도 된다.
-* 
 
 
 
-Node structure
+**Node** structure
 ```Python
 typedef struct tagNode{
   char* Data; #char* points to the first character of string. (In C, we can use pointer like a string)
@@ -15,7 +15,7 @@ typedef struct tagNode{
 } Node;
 ```
 
-(Linked-list) stack structure
+**(Linked-list) stack** structure
 ```Python
 typedef struct tagLinkedListStack{
   Node* List;
