@@ -4,6 +4,9 @@
 * Unlike ArrayStack, we don't need to set limit of size of stack in the beginning.
 * 스택의 용량에 제한을 두지 않아도 된다.
 
+![image](https://user-images.githubusercontent.com/22133824/143482931-69fb4ac6-97bf-48ee-9897-fb9e6e8b74b5.png)
+
+
 
 
 **Node** structure
