@@ -2,7 +2,7 @@
 > input ex: ```1 + 3.334 / (4.28 * (110 - 772))```
 > -> 요소의 우선순위를 파악하고 알맞게 계산
 
-### Step 1. 중위 표기식 -> 후위 표기식
+### Step 1. 중위 표기식 -> 후위 표기식 (using Dijkstra algorithm)
 * **후위 표기식(Reverse Polish Notation, Postfix Notation)** : 연산자를 피연산자 뒤에 위치시킴. (ex. 1 2 +)
 * **중위 표기식(Infix Notation)** : 연산자가 피연산자 가운데에 위치. (ex: 1 + 2)
 
