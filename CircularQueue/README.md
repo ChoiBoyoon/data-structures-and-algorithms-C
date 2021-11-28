@@ -8,3 +8,24 @@
 * 비어있는 상태와 가득 찬 상태를 구별하기 위해 전단과 후단 사이를 1 비움. (front==rear면 공백 상태, front==rear+1이면 포화 상태)
 
 ![image](https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png)
+
+
+test code results
+```
+Dequeue: 1, Front: 1, Rear: 4
+Dequeue: 2, Front: 2, Rear: 4
+Dequeue: 3, Front: 3, Rear: 4
+Capacity : 10, Size: -1
+
+Dequeue: 4, Front: 4, Rear: 2
+Dequeue: 100, Front: 5, Rear: 2
+Dequeue: 101, Front: 6, Rear: 2
+Dequeue: 102, Front: 7, Rear: 2
+Dequeue: 103, Front: 8, Rear: 2
+Dequeue: 104, Front: 9, Rear: 2
+Dequeue: 105, Front: 10, Rear: 2
+Dequeue: 106, Front: 0, Rear: 2
+Dequeue: 107, Front: 1, Rear: 2
+Dequeue: 108, Front: 2, Rear: 2
+Program ended with exit code: 0
+```
