@@ -26,7 +26,7 @@ typedef struct tagLinkedListStack{
 } LinkedList;
 ```
 
-result of the test code:
+test code results:
 ```
 Size: 4, Top: 4th node
 
