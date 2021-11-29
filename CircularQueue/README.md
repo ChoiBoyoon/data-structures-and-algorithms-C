@@ -7,8 +7,6 @@
 * Circular Queue: Circular Linked List처럼 전단 바로 전 후단이 옴. 
 * 비어있는 상태와 가득 찬 상태를 구별하기 위해 전단과 후단 사이를 1 비움. (front==rear면 공백 상태, front==rear+1이면 포화 상태)
 
-![image](https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png)
-
 Node structure
 ```C
 typedef struct tagNode{
@@ -23,7 +21,10 @@ typedef struct tagCircularQueue{
   int Front; //we don't use pointer to keep track of front and rear -> faster than linked queue
   int Rear;
 } CircularQueue;
+```
 
+
+![image](https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png)
 
 
 test code results
