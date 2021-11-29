@@ -14,7 +14,7 @@
 
 #### Queue
 * [CircularQueue](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/CircularQueue)
-* LinkedQueue
+* [LinkedQueue](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/LinkedQueue)
 
 #### Tree
 * LCRSTree
