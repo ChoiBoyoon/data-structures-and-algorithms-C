@@ -19,3 +19,12 @@ typedef struct tagLinkedQueue{
   int Count;
 } LinkedQueue;
 ```
+test code results
+```
+Queue Size: 4
+Dequeue : A
+Dequeue : B
+Dequeue : C
+Dequeue : D
+Program ended with exit code: 0
+```
