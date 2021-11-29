@@ -11,3 +11,11 @@ typedef struct tagNode{
   struct tagNode* NextNode;
 }
 ```
+LinkedQueue structure
+```C
+typedef struct tagLinkedQueue{
+  Node* Front;
+  Node* Rear;
+  int Count;
+} LinkedQueue;
+```
