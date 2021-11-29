@@ -15,7 +15,7 @@ LinkedQueue structure
 ```C
 typedef struct tagLinkedQueue{
   Node* Front;
-  Node* Rear;
+  Node* Rear; //we use 4 bytes not to search for rear node everytime we need it. time complexity: O(n) -> (almost)0
   int Count;
 } LinkedQueue;
 ```
