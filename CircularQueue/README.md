@@ -9,6 +9,22 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png)
 
+Node structure
+```C
+typedef struct tagNode{
+  ElementType Data; //for now, ElementType is int
+}
+```
+
+CircularQueue structure
+```C
+typedef struct tagCircularQueue{
+  int Capacity;
+  int Front; //we don't use pointer to keep track of front and rear -> faster than linked queue
+  int Rear;
+} CircularQueue;
+
+
 
 test code results
 ```
