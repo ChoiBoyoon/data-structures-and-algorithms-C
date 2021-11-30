@@ -27,6 +27,14 @@
 * **왼쪽 자식-오른쪽 형제 표현(LCRS, Left Child Right Sibling)** : N개의 차수를 가진 노드의 표현이 두 개의 포인터로 가능.
 ![image](https://user-images.githubusercontent.com/22133824/144132142-e039e8b0-4bfb-4b85-9c5b-fd3cb92a76db.png)
 
+#### Node structure
+```C
+typedef struct tagLCRSNode{
+    struct tagLCRSNode* LeftChild;
+    struct tagLCRSNode* RightNode;
+    ElementType Data;
+}LCRSNode;
+```
 
 
 
