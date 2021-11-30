@@ -35,6 +35,18 @@ typedef struct tagLCRSNode{
     ElementType Data;
 }LCRSNode;
 ```
-
-
-
+#### Test code result
+```C
+A
+ B
+  C
+  D
+   E
+   F
+ G
+  H
+ I
+  J
+   K
+Program ended with exit code: 0
+```
