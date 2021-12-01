@@ -35,3 +35,17 @@ typedef struct tagSBTNode{
   ElementType Data;
 } SBTNode;
 ```
+
+Test code result
+```
+Preorder...
+ A B C D E F G
+
+Inorder...
+ C B D A F E G
+
+PostOrder...
+ C D B F G E A
+
+Program ended with exit code: 0
+```
