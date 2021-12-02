@@ -9,6 +9,17 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/144508759-ae745a1c-6f92-4537-a854-e34280ae3ccd.png)
 
+node structure
+```C
+typedef char ElementType;
+
+typedef struct tagETNode{
+    struct tagETNode* Left;
+    struct tagETNode* Right;
+    ElementType Data;
+} ETNode;
+```
+
 test code result
 ```C
 Preorder...
