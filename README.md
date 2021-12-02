@@ -20,7 +20,7 @@
 * [LCRSTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/LCRSTree)
 * [BinaryTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/BinaryTree)
 * [ExpressionTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/ExpressionTree)
-* DisjointSet
+* [DisjointSet](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/DisjointSet)
 
 ## Algorithms
 #### Sort
