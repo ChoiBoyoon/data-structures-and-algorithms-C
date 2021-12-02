@@ -19,7 +19,7 @@
 #### Tree
 * [LCRSTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/LCRSTree)
 * [BinaryTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/BinaryTree)
-* ExpressionTree
+* [ExpressionTree](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/ExpressionTree)
 * DisjointSet
 
 ## Algorithms
