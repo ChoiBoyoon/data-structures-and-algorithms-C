@@ -16,3 +16,10 @@ typedef struct tagDisjointSet{
   void* Data;   //어떤 자료형의 데이터든 입력할 수 있음
 }
 ```
+test code result
+```
+Set1 == Set2: 0 
+Set1 == Set3: 1 
+Set3 == Set4: 1 
+Program ended with exit code: 0
+```
