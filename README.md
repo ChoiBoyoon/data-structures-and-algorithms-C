@@ -30,3 +30,13 @@
 
 #### Search
 * BinarySearch
+* BinarySearchTree
+* RedBlackTree
+
+#### Heap & Prioirty Queue
+* Heap
+* PriorityQueue
+
+#### Hash Tables
+#### Graphs
+
