@@ -5,3 +5,9 @@
 * 구현이 간단하기 때문에 버그를 만들 가능성이 적음.
 
 ![image](https://user-images.githubusercontent.com/22133824/144716720-b27d0001-6e86-40d6-8776-15f62b2f2ccb.png)
+
+Test code result
+```C
+1 2 3 4 5 6 7 8 
+Program ended with exit code: 0
+```
