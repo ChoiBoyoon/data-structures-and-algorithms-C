@@ -12,4 +12,4 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/143606908-c6549582-321d-482a-aedc-1163025ed003.png)
 
-*cf. 토큰(token): 텍스트 분석에서 토큰은 '최소 단위의 기호 또는 단어'*
+*cf. **토큰(token)**: 텍스트 분석에서 토큰은 '최소 단위의 기호 또는 단어'*
