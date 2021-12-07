@@ -25,7 +25,7 @@
 * **중위 순회(Inorder Traversal)**: 왼쪽 하위 트리부터 오른쪽 트리 방향으로 방문
 * **후위 순회(Postorder Traversal)**: 루트, 왼쪽 하위 트리, 오른쪽 하위 트리 순으로 방문
 
-![image](https://user-images.githubusercontent.com/22133824/144216075-29b815b2-7bff-4523-bf93-c4eedbbe0820.png)
+<img src="https://user-images.githubusercontent.com/22133824/144216075-29b815b2-7bff-4523-bf93-c4eedbbe0820.png" height=300px />
 
 Node structure
 ```C
