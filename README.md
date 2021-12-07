@@ -26,7 +26,7 @@
 #### Sort
 * [BubbleSort](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/BubbleSort)
 * [InsertionSort](https://github.com/ChoiBoyoon/DataStructure_and_Algorithms_in_C/tree/main/InsertionSort)
-* QuickSort
+* [QuickSort](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/QuickSort)
 
 #### Search
 * BinarySearch
