@@ -17,7 +17,7 @@
 * **높이 균형 트리(Height Balanced Tree)**: 루트 노드를 기준으로 왼쪽 하위 트리와 오른쪽 하위 트리의 높이가 1 이상 차이나지 않는 이진 트리
 * **완전 높이 균형 트리(Completely Height Balanced Tree)**: 루트 노드를 기준으로 왼쪽 하위 트리와 오른쪽 하위 트리의 높이가 같은 이진 트리
 
-![image](https://user-images.githubusercontent.com/22133824/144216152-70718839-63de-4d68-9577-42cd2517a607.png)
+<img src="https://user-images.githubusercontent.com/22133824/144216152-70718839-63de-4d68-9577-42cd2517a607.png" width=400px />
 
 
 #### 순회(Traversal): 트리 내의 노드들 사이를 돌아다니는 것 / 효율적인 방법으로 원하는 데이터에 접근할 수 있는 방법을 제공
