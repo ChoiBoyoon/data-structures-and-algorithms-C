@@ -32,7 +32,7 @@ int main(void){
         printf("%d", DataSet[i]);
     }
 
-    printf("\n")
+    printf("\n");
     return 0;
     
 }
