@@ -11,6 +11,26 @@
 
 
 ### 성능
-* 이상적인 경우 **nlog<sub>2</sub>n**
-* 최악의 경우 **(n(n-1)/2)**
+> 퀵 정렬은 데이터 집합이 어떻게 정렬되어 있는지가 성능을 좌우 but 특별한 경우가 아닌 경우 아주 뛰어난 성능을 가짐(평균 **1.39nlog<sub>2</sub>n**)
+
+* 이상적인 경우(데이터 요소들이 이리저리 흩어져 있는 경우): **nlog<sub>2</sub>n**
+* 최악의 경우: **(n(n-1)/2)**
+  * 데이터가 미리 정렬되어 있거나 역순으로 정렬되어 있는 경우  
+  * 매 재귀 호출마다 데이터 집합의 분할이 1:(n-1)로 이루어지는 경우
 * 평균 **1.39nlog<sub>2</sub>n**
+
+### qsort() 함수
+> C 표준 라이브러리 함수 (stdlib.h)
+
+```C
+void qsort(
+  void *base, //address of an array of data elements
+  size_t num, //number of elements
+  size_t width, //size of one data element
+  int (__cdecl *compare)(const void*, const void*)
+);
+```
+
+
+  
+ 
