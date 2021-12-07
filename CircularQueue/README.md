@@ -24,7 +24,7 @@ typedef struct tagCircularQueue{
 ```
 
 
-![image](https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png)
+<img src="https://user-images.githubusercontent.com/22133824/143689174-bf863b5a-a450-4ca6-9833-0185a57be7fa.png" height=230px />
 
 
 test code results
