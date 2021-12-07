@@ -4,7 +4,7 @@
 * 느림! 요소의 수가 n개일 때, n(n+1)/2번의 연산 수행.
 * 구현이 간단하기 때문에 버그를 만들 가능성이 적음.
 
-![image](https://user-images.githubusercontent.com/22133824/144716720-b27d0001-6e86-40d6-8776-15f62b2f2ccb.png)
+<img src="https://user-images.githubusercontent.com/22133824/144716720-b27d0001-6e86-40d6-8776-15f62b2f2ccb.png" height=350px />
 
 Test code result
 ```C
