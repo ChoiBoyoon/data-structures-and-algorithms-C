@@ -6,6 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/144718583-685ce035-b70e-48e4-a526-1723c46fa4fb.png)
 
+```memmove()```: C 표준 함수. 메모리의 내용을 이동시킴. 연속된 데이터를 단번에 이동시킬 때 아주 유용함.
+```memcpy()```: 원본 데이터를 대상 메모리 주소로 '복사'
+
 Test code result
 ```
 1 2 3 4 5 6 7 8 
