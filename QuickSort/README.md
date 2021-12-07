@@ -8,6 +8,6 @@
 수색 섬멸 작전, 재귀 호출(recursive call) 기능 사용.
 
 ### 성능
-* 이상적인 경우 *nlog<sub>2</sub>n*
-* 최악의 경우 *(n(n-1)/2)*
-* 평균 1.39nlog<sub>2</sub>n
+* 이상적인 경우 **nlog<sub>2</sub>n**
+* 최악의 경우 **(n(n-1)/2)**
+* 평균 **1.39nlog<sub>2</sub>n**
