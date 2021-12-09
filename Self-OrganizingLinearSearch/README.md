@@ -4,6 +4,9 @@
 * 정렬되어 있지 않은 데이터 집합 속에서 원하는 데이터를 찾을 수 있는 유일한 방법.
 * 구현이 간단해서 버그를 만들 가능성이 적음.
 
+![image](https://user-images.githubusercontent.com/22133824/145452877-262ef897-114f-4e1d-b861-bf15b08412b5.png)
+
+
 ## 자기 구성 순차 탐색 (Self-Organizing Linear Search)
 > 자주 사용하는 항목들을 다른 항목보다 우선하여 접근할 수 있게 가까운 곳에 배치
 
