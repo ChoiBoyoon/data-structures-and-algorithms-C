@@ -27,9 +27,10 @@ void qsort(
   void *base, //address of an array of data elements
   size_t num, //number of elements
   size_t width, //size of one data element
-  int (__cdecl *compare)(const void*, const void*)
+  int (__cdecl *compare)(const void*, const void*) //비교를 수행한 결과를 반환하는 함수에 관한 포인터
 );
 ```
+*cf. 함수에 대한 포인터를 갖고 있으면, 해당 포인터가 가리키고 있는 메모리에 위치한 함수를 실행시킬 수 있음.*
 
 
   
