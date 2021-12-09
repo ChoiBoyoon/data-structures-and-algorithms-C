@@ -29,7 +29,7 @@
 * [QuickSort](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/QuickSort)
 
 #### Search
-* Self-Organizing Linear Search
+* [Self-Organizing Linear Search](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/Self-OrganizingLinearSearch)
 * [BinarySearch](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/BinarySearch)
 * BinarySearchTree
 * RedBlackTree
