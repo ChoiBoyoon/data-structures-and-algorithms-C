@@ -5,6 +5,9 @@
 2. 다시 1에서와 같이 임의의 기준 요소를 선택하고 같은 방법으로 데이터 집합을 분할.
 3. 1과 2의 과정을 더 이상 데이터 집합을 나눌 수 없을 때까지 반복.
 
+* **QuickSort.c** -> 직접 QuickSort() 함수 구현
+* **QuickSort2.c** -> C 표준 라이브러리 함수 qsort()를 이용해 동일한 sort 구현
+
 수색 섬멸 작전, 재귀 호출(recursive call) 기능 사용.
 
 ![image](https://user-images.githubusercontent.com/22133824/145110215-e0066606-2b75-4bef-b4dd-99cf4f787cd2.png)
