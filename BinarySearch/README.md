@@ -10,3 +10,6 @@
 
 * 탐색 범위를 1/2씩 줄여나가는 방식
 * 성능이 매우 뛰어나면서도 그 구조는 굉장히 간단함.
+
+![image](https://user-images.githubusercontent.com/22133824/145482790-5ff451cd-b5c9-4200-8dab-d2aaf6bd1737.png)
+
