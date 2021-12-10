@@ -20,7 +20,7 @@ typedef struct{
   double score; //score they got
 }
 ```
-test result
+test result (in both BinarySearch.c and BinarySearch2.c)
 ```
 found: 1780 671.780000 
 Program ended with exit code: 0
