@@ -25,5 +25,7 @@ test result
 found: 1780 671.780000 
 Program ended with exit code: 0
 ```
+## bsearch()
+> The function <b>Score* BinarySearch(Score ScoreList[]. int size, double target);</b> in BinarySearch.c can be replaced by **bsearch()**, C function in standard library.
 
-> The function **Score* BinarySearch(Score ScoreList[]. int size, double target);** in BinarySearch.c can be replaced by **bsearch()**, C function in standard library.
+* use case is implemented in <b>BinarySearch2.c</b>
