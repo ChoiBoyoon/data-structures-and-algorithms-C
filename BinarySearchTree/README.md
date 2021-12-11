@@ -7,3 +7,12 @@
 
 <img src="https://user-images.githubusercontent.com/22133824/145681556-20c27702-72f9-41fe-a1cb-3880903b9d87.png" width=400px />
 
+Test code result:
+```
+1 3 17 22 34 98 123 317 424 760 9918 
+After removing 98
+1 3 17 22 34 123 317 424 760 9918 
+After inserting 111
+1 3 17 22 34 111 123 317 424 760 9918 
+Program ended with exit code: 0
+```
