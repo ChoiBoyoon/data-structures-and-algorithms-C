@@ -8,8 +8,9 @@
 <img src="https://user-images.githubusercontent.com/22133824/145681556-20c27702-72f9-41fe-a1cb-3880903b9d87.png" width=400px />
 
 ### 문제점
+> 아래 그림처럼 이진 탐색 트리가 기형적으로 성장하면 검색의 효율을 극단적으로 떨어뜨림.
+
 ![image](https://user-images.githubusercontent.com/22133824/145682649-1fdeca15-5512-4bf3-90a5-89728cecc6b2.png)
-* 위 그림처럼 이진 탐색 트리가 기형적으로 성장하면 검색의 효율을 극단적으로 떨어뜨림.
 * 실제 데이터를 담는 경우 위와 같이 성장할 확률이 높음.
 
 Test code result:
