@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/145482790-5ff451cd-b5c9-4200-8dab-d2aaf6bd1737.png)
 
-#### In this exercise, we'll find a student who recorded score of 671.78
+#### In this exercise, we'll locate a student who recorded score of 671.78
 ```C
 typedef struct{
   int number;   //identifier of student
