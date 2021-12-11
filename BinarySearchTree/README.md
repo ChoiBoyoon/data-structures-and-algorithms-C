@@ -12,6 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/22133824/145682649-1fdeca15-5512-4bf3-90a5-89728cecc6b2.png)
 * 실제 데이터를 담는 경우 위와 같이 성장할 확률이 높음.
+* solution: Red-black tree
 
 Test code result:
 ```
