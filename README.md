@@ -64,4 +64,12 @@
 #### Divide and Conquer
 * Merge Sort
 * Fast Exponentiation (O(n) -> O(log<sub>2</sub>n))
+* Fibonacci DnC
+
+#### Dynamic Programming
+* Fibonacci DP
+* LCS (Longest Common Sequence)
+
+#### Greedy Algorithms
+
 
