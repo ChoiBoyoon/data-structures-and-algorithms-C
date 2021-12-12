@@ -39,5 +39,29 @@
 * Priority Queue
 
 #### Hash Tables
+* Simple Hash Table
+* Chaining
+* Open Addressing
+
 #### Graphs
+* Graph
+* Graph Traversal
+* Topological Sort
+* Minimum Spanning Tree
+* Shortest Path
+
+#### String Search
+* brute force
+* Karp Rabin
+* Knuth Morris Pratt
+* Boyer Moore
+
+#### Performance Analysis of Algorithms
+* Asymptotic Notation
+* Big O Notation
+* Omega Notation
+
+#### Divide and Conquer
+* Merge Sort
+* Fast Exponentiation (O(n) -> O(log<sub>2</sub>n)
 
