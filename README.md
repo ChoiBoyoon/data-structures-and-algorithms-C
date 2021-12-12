@@ -63,5 +63,5 @@
 
 #### Divide and Conquer
 * Merge Sort
-* Fast Exponentiation (O(n) -> O(log<sub>2</sub>n)
+* Fast Exponentiation (O(n) -> O(log<sub>2</sub>n))
 
