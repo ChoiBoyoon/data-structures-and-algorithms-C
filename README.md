@@ -55,7 +55,7 @@
 * Karp Rabin
 * Knuth Morris Pratt
 * Boyer Moore
-
+## Algorithm Design Techniques
 #### Performance Analysis of Algorithms
 * Asymptotic Notation
 * Big O Notation
