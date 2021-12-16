@@ -32,7 +32,7 @@
 * [Self-Organizing Linear Search](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/Self-OrganizingLinearSearch)
 * [Binary Search](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/BinarySearch)
 * [Binary Search Tree](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/BinarySearchTree)
-* Red-Black Tree
+* [Red-Black Tree](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/RedBlackTree)
 
 #### Heap & Prioirty Queue
 * Heap
