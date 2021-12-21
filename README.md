@@ -36,7 +36,7 @@
 
 #### Heap & Prioirty Queue
 * Heap
-* Priority Queue
+* [Priority Queue](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/PriorityQueue)
 
 #### Hash Tables
 * Simple Hash Table
