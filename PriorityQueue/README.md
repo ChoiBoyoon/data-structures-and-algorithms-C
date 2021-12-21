@@ -6,3 +6,6 @@
 * 우선순위 큐의 element들은 우선순위 오름차순으로 연결됨. 
   * 새 요소가 삽입되어야 하는 위치는 Heap의 도움을 받아 찾고, 
   * 제거(dequeue)는 전단만 제거해서 반환.
+
+<img src="https://user-images.githubusercontent.com/22133824/146932589-4e05b5b6-6f4b-4c9e-bb2a-733a656cfb34.png" height=400px/>
+img source: https://rajagoyal815.medium.com/
