@@ -35,7 +35,7 @@
 * [Red-Black Tree](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/RedBlackTree)
 
 #### Heap & Prioirty Queue
-* Heap
+* [Heap](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/Heap)
 * [Priority Queue](https://github.com/ChoiBoyoon/data-structures-and-algorithms-C/tree/main/PriorityQueue)
 
 #### Hash Tables
