@@ -71,5 +71,6 @@
 * LCS (Longest Common Sequence)
 
 #### Greedy Algorithms
-* 
+
+*
 
