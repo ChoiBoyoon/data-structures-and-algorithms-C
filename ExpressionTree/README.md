@@ -7,7 +7,7 @@
 * 수식 트리의 성질에 적합한 노드 순회 방법: 후위 순회
 * 후위 표기식을 이용해 트리를 구축 (중위 표기식은 컴퓨터가 처리하기에 적합하지 않음)
 
-![image](https://user-images.githubusercontent.com/22133824/144508759-ae745a1c-6f92-4537-a854-e34280ae3ccd.png)
+<img src="https://user-images.githubusercontent.com/22133824/144508759-ae745a1c-6f92-4537-a854-e34280ae3ccd.png" height=200px />
 
 node structure
 ```C
